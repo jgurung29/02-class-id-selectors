@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+    margin-bottom: 16px;
+}
+
+.odd {
+    background-color: rgb(244, 138, 185);
+    font-family: Verdana, "Dejavu sans", sans-serif;
+}
+#one {
+    color: blue;
+    font-size: 32px;
+}
+
+.odd .oddly-cool {
+    font-size: 24px;
+
+}
+
+#two {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: rgb(184, 245, 197);
+}
